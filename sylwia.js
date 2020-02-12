@@ -1,1 +1,3 @@
 let somethingElse;
+
+let newObject = {};
